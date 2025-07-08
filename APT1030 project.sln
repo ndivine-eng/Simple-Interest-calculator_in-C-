@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simple_Interest-Calculator-in_C#", "Simple_Interest-Calculator-in_C#", "{BDFBF6FD-C61C-07EC-0AB3-93D25A921CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInterestApp", "Simple_Interest-Calculator-in_C#\SimpleInterestApp\SimpleInterestApp.csproj", "{A9BC91F5-C84E-8268-5F39-08E38BCEFAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9BC91F5-C84E-8268-5F39-08E38BCEFAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BC91F5-C84E-8268-5F39-08E38BCEFAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BC91F5-C84E-8268-5F39-08E38BCEFAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BC91F5-C84E-8268-5F39-08E38BCEFAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9BC91F5-C84E-8268-5F39-08E38BCEFAFC} = {BDFBF6FD-C61C-07EC-0AB3-93D25A921CF5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4258A7A7-6E73-4817-A1C4-6C9177E50B6C}
+	EndGlobalSection
+EndGlobal

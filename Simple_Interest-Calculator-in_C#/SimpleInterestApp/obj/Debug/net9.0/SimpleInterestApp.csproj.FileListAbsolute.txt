@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\bin\Debug\net9.0\SimpleInterestApp.exe
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\bin\Debug\net9.0\SimpleInterestApp.deps.json
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\bin\Debug\net9.0\SimpleInterestApp.runtimeconfig.json
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\bin\Debug\net9.0\SimpleInterestApp.dll
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\bin\Debug\net9.0\SimpleInterestApp.pdb
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.dll
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\refint\SimpleInterestApp.dll
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.pdb
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\ref\SimpleInterestApp.dll
