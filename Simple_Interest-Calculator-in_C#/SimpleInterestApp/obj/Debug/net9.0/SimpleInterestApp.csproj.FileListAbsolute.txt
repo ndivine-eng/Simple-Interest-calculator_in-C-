@@ -12,3 +12,4 @@ C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInter
 C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.pdb
 C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.genruntimeconfig.cache
 C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\ref\SimpleInterestApp.dll
+C:\Users\PC\Desktop\APT1030 project\Simple_Interest-Calculator-in_C#\SimpleInterestApp\obj\Debug\net9.0\SimpleInterestApp.sourcelink.json
